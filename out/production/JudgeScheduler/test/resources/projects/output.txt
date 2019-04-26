@@ -1,0 +1,50 @@
+
+===========================================Science Fair Schedule=============================================
+Group: Behavioral/Social Science_1
+Judges: Chris Suarez,Jill Clemson,Bill Jones
+Projects: 400,401,402
+
+Group: Chemistry_1
+Judges: Ben Miller,Sara Rodriguez,Leticia Jones
+Projects: 403,412,407,410,411,408
+
+Group: Chemistry_2
+Judges: Fransico Aranda,Joe Hansen,Maria Gonzales
+Projects: 409,406,405,404
+
+Group: Earth/Space Science_1
+Judges: Carla Phillips,Jamie Garcia,Ilhyun Lee
+Projects: 434,435,436,413
+
+Group: Environmental Science_1
+Judges: Betty Baines,Haesun Lee,Joseph Martin
+Projects: 415,431,432,433,437,416
+
+Group: Environmental Science_2
+Judges: Chris Suarez,Jill Clemson,Bill Jones
+Projects: 414
+
+Group: Life Science_1
+Judges: Cathy Lively,Susan Garcia,Tony Brown
+Projects: 422,428,430,417,419,418
+
+Group: Mathematics/Physics_1
+Judges: Jamie Aguirre,Karen Simi,Quan Yuan
+Projects: 423,426,425,424,427,429
+
+Group: Mathematics/Physics_2
+Judges: Fransico Aranda,Jamie Garcia,Ilhyun Lee
+Projects: 420,421
+
+
+===========================================Available Judges=============================================
+Judge[firstName=Joe, lastName=Hansen, projectCount=4, categoryCount=2]
+Judge[firstName=Jill, lastName=Clemson, projectCount=4, categoryCount=3]
+Judge[firstName=Jim, lastName=Green, projectCount=0, categoryCount=1]
+Judge[firstName=Bill, lastName=Jones, projectCount=4, categoryCount=5]
+Judge[firstName=Carla, lastName=Phillips, projectCount=4, categoryCount=1]
+Judge[firstName=Chris, lastName=Suarez, projectCount=4, categoryCount=2]
+Judge[firstName=Maria, lastName=Gonzales, projectCount=4, categoryCount=2]
+Judge[firstName=Vladan, lastName=Vuckovic, projectCount=0, categoryCount=3]
+
+===========================================Incomplete Groups=============================================
